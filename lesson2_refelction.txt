@@ -1,0 +1,4 @@
+lesson2_refelction.txt
+What happens when you initialize a repository? Why do you need to do it?
+
+To start tracking your status files 
